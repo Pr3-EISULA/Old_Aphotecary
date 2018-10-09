@@ -1,0 +1,14 @@
+Equipo TechDevelop:
+
+	Miembros:	      	|Correos:			 |Git:
+		Kevin Márquez 	|	marquezberriosk@gmail.com|   @k-marquez
+		Diego Benitez 	|	benitezdiego.n@gmail.com |   @D1egood
+		Gabriel Guerrero|	gabgc15@gmail.com	 |   @GabrielJGC
+
+Proyecto actual:
+
+	Old_Aphotecary:
+
+	Un juego ambientado en la Europa del siglo XIV, en la cual la peste negra esta causando
+	estragos, tu como boticario de la epoca tienes la mision de detener la plaga antes que
+	esta extermine a la poblacion de Europa.
