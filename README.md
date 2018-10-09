@@ -8,4 +8,4 @@ Europe of the XIV century, medicine fights against the black plague and you as a
 Europa del siglo XIV, la medicina lucha contra la peste negra y tú como boticario excelso tienes la
 misión de dirigir la búsqueda de una cura usando hierbas medicinales, fe, alquimia y cuantos medios
 tengas disponibles, en tus manos esta detener está terrible enfermedad antes que la muerte cambie
-al mundo como lo conoces.   
+al mundo como lo conoces.
